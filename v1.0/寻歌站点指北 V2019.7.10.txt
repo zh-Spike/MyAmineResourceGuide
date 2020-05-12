@@ -1,0 +1,154 @@
+你先要知道自己要找什么！
+如果百度/谷歌还是找不到可以用以下网站查找
+
+PS：找资源的朋友对人态度要好点
+
+
+【综合资源站】
+
+百度贴吧（全吧搜索功能）
+https://tieba.baidu.com/
+
+动漫花园资源网
+https://share.dmhy.org/
+
+RARBG（外国网站无中文）
+https://proxyrarbg.org
+
+
+
+【ACG相关资源站】
+
+天使动漫论坛（部分资源需要足够的天使币或威望等级）
+https://www.tsdm.love/forum.php
+
+绯月论坛
+https://bbs.2dkf.com/
+
+二次元虫洞
+http://www.2cycd.com/
+
+萌番组（追番用）
+https://bangumi.moe/
+
+简单动漫资源发布站（追番用）
+https://www.36dm.com/
+
+VnSharing论坛（外国网站无中文）
+http://vnsharing.site/
+
+Anime Kaizoku（外国网站无中文）
+https://animekaizoku.com/
+
+
+
+【音乐资源站】
+
+ACG漫音社（给力！）
+http://www.acgjc.com/
+
+big-cd同人资源交流论坛（主V家东方类，部分下载需要足够积分）
+http://bbs.big-cd.com/
+
+树下音乐论坛（下载需要币）
+http://www.hires.cn/
+
+炫音音乐论坛（下载需要回帖，部分资源需要币或VIP）
+http://bbs.musicool.cn/forum.php
+
+CD包音乐网（下载需要回帖，部分资源需要币或VIP）
+https://www.cdbao.net/
+
+FUNIME.F-N.（外国网站无中文）
+http://musical.f-n.me/
+
+Sound FLAC（外国网站无中文）
+https://soundflac.com/
+
+
+
+
+【磁力网盘搜索类资源站】
+
+不死鸟（磁力站汇总）
+https://hao.su/909/
+
+Nyaa
+https://nyaa.si/
+
+MioBT＊联盟
+http://www.miobt.com/
+
+云盘精灵（下载需要币）
+https://www.yunpanjingling.com/
+
+漫猫动漫BT（追番用）
+http://www.comicat.org/
+
+TORRENT DOWNLOADS（外国网站无中文）
+https://www.torrentdownloads.me/
+
+bittorrent（外国网站无中文）
+http://www.bittorrent.am/
+
+
+
+
+【资源情报查询站】
+
+VGMdb
+https://vgmdb.net/
+
+Bangumi番组计划
+http://bangumi.tv/
+
+东方同人音乐流通（查东方专辑专用）
+https://touhou-music.jp/
+
+Vocaloid Database（查VOCALOID专辑专用）
+https://vocadb.net/
+
+
+
+其他
+
+豆瓣资源脚本
+https://greasyfork.org/scripts/329484-
+%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-
+1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-
+%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD
+
+搜索引擎运用进阶
+site  搜索某个域名在搜索引擎内收录的文件  部分网站的搜索功能体验奇差  可以在搜索引擎内使用这个指令来搜索该网站内的收录记录(部分网站被搜索引擎设置了过滤黑名单会使得该指令无法得到正确结果)
+例：哆啦A梦 site:acgjc.com
+
+filetype 搜索指定文件格式
+例: 狗群主 filetype:jpg
+
+""(双引号) 将搜索内容输入到双引号中可完全匹配搜索结果 既搜索结果内将包含双引号中所有出现的内容 包括输入顺序也会完全一致 有明确需要了解的内容需求可使用该指令
+例："沙雕群员"
+
+-（减号）代表搜索时不包含减号后面关键词的页面
+例：鬼父 -遗作（减号前面需有空格 后面没有 个人感觉毫无意义的指令）
+
+*（星号）常用通配符  可匹配任意字符  百度不支持该指令 google可以
+例：马*梅  *东梅  马东*（马什么梅？）
+
+
+..（两点）搜索数值范围内的结果  可以是时间  价格  年份  距离等
+例：威士忌 1961..1993
+
+or或｜（或是）可返回关键词1的结果或关键词2的结果  只包含关键词1或关键词2
+例：69 OR 捆绑（Goole只能用大写OR  百度只能用｜）
+
+以上搜索指令可自由组合以达到精确搜索的目的  但注意过多使用指令可能使结果有所偏差或逻辑相悖而致使无搜索结果
+另外百度 google 搜狗等搜索引擎都有集成高级搜索可视化界面  使用指令致使为了操作更方便
+
+封面搜索（需自备翻墙工具  配合搜种神器也许可以用来搜AV？）：Google识图 tineye（相对精准） yandex ascii2d 百度识图 
+附以图搜图油猴脚本 Serch by image（集成以上各识图引擎 自行搜索 对图片按ctrl+鼠标右键即可）
+
+场景搜索引擎（别瞎想了！只能搜动画！）：Trace.moe（可能需翻墙 Github开源） 与以图搜图网站的本质不同在于该站仅用于搜索动画信息 可将截图放入其中 可具体搜索到动画的集数和画面位置  精确率较高 可精确至秒  
+
+被坑了与本人无关，仅供有判断能力者参考
+
+更新日志：2019.7.10 更新SEO应用By避孕光环
